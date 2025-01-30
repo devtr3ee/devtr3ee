@@ -13,7 +13,7 @@ And so now I am an aspiring Game Developer. I am doing my best to learn about al
 
 * 🌍  I'm based in Bogotá D.C., Colombia
 * 🖥️  See my portfolio at [Here, you are already here](https://www.github.com/mahechamiguel)
-* ✉️  You can contact me at [social@miguengineer.com](mailto:social@miguengineer.com)
+* ✉️  You can contact me at [social@miguelmahecha.com](mailto:social@miguelmahecha.com)
 * 🤝  I'm open to collaborating on real-world projects
 * ⚡  I use light themes, but I'm not crazy. I swear...
 
