@@ -13,7 +13,7 @@ And so now I am an aspiring Game Developer. I am doing my best to learn about al
 
 * 🌍  I'm based in Bogotá D.C., Colombia
 * 🖥️  See my portfolio at [Here, you are already here](https://www.github.com/mahechamiguel)
-* ✉️  You can contact me at [social@miguelmahecha.com](mailto:social@miguelmahecha.com)
+* ✉️  You can contact me at [social@devtr3e.com](mailto:social@devtr3e.com)
 * 🤝  I'm open to collaborating on real-world projects
 * ⚡  I use light themes, but I'm not crazy. I swear...
 
@@ -36,4 +36,4 @@ And so now I am an aspiring Game Developer. I am doing my best to learn about al
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mahechamiguel"><img src="https://github-readme-stats.vercel.app/api?username=mahechamiguel&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="MiguelMahecha's GitHub stats" /></a>
+<a href="http://www.github.com/mahechamiguel"><img src="https://github-readme-stats.vercel.app/api?username=mahechamiguel&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="devtr3e's GitHub stats" /></a>
