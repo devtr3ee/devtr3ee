@@ -12,7 +12,7 @@ While playing Cyberpunk 2077, I opened the door after sleeping through a sandsto
 And so now I am an aspiring Game Developer. I am doing my best to learn about all the disciplines that make up video games, the ultimate expression of all the arts. However, since one can only be great at so many things, I've focused especially on graphics programming. And so I am on a journey that, for now, is taking me through [LearnOpenGL](https://learnopengl.com/).
 
 * 🌍  I'm based in Bogotá D.C., Colombia
-* 🖥️  See my portfolio at [Here, you are already here](https://www.github.com/mahechamiguel)
+* 🖥️  See my portfolio at [Here, you are already here](https://www.github.com/devtr3ee)
 * ✉️  You can contact me at [social@devtr3e.com](mailto:social@devtr3e.com)
 * 🤝  I'm open to collaborating on real-world projects
 * ⚡  I use light themes, but I'm not crazy. I swear...
@@ -36,4 +36,4 @@ And so now I am an aspiring Game Developer. I am doing my best to learn about al
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mahechamiguel"><img src="https://github-readme-stats.vercel.app/api?username=mahechamiguel&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="devtr3e's GitHub stats" /></a>
+<a href="http://www.github.com/devtr3ee"><img src="https://github-readme-stats.vercel.app/api?username=devtr3ee&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="devtr3e's GitHub stats" /></a>
